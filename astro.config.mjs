@@ -6,6 +6,7 @@ export default defineConfig({
   site: 'https://monograph.theserverless.dev',
   output: 'static',
   integrations: [sitemap()],
+build: { assets: 'noho' },
   vite: {
     plugins: [tailwindcss()],
   },

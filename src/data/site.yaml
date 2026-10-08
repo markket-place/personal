@@ -1,8 +1,8 @@
 # Site-wide metadata
-title: "Jane Smith - Software Engineer"
-description: "Software engineer building modern web applications. Based in San Francisco, CA."
-name: "jane smith"
-email: "hello@example.com"
+title: "Daveed Silva Ossa - Artsy Engineer"
+description: "Software engineer, modern web applications. Based in Noho, CA"
+name: "Daveed Silva Ossa"
+email: "hello@markket.place"
 lang: "en"
 ogImage: "/og.png"
 themeColor: "#2E5090"
@@ -10,13 +10,13 @@ themeColor: "#2E5090"
 # Social links
 social:
   - label: "GitHub"
-    url: "https://github.com/theserverlessdev/astro-monograph"
+    url: "https://github.com/dvidsilva"
     icon: "jjxzcivr"
   - label: "LinkedIn"
-    url: "https://www.linkedin.com/in/janesmith"
+    url: "https://www.linkedin.com/in/dvidsilva"
     icon: "euybrknk"
   - label: "Blog"
-    url: "https://blog.example.com"
+    url: "https://daveed.markket.place"
 
 # Navigation items
 nav:

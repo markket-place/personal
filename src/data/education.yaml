@@ -1,20 +1,21 @@
 label: "05 // EDUCATION"
 heading: "Academic Foundation"
 
-degree: "B.S. Computer Science"
-institution: "University of California, Berkeley"
-dateRange: "2014 &ndash; 2018"
+degree: "Industrial Engineering, Multimedia Design, Yeshiva"
+institution: "Universidad Sergio Arboleda, Lasalle College, Mercaz Sefaradi"
+dateRange: "~2012"
 
 highlights:
-  - text: "Dean's List (6 semesters)"
+  - text: "Classically trained artist"
     icon: "lewtedlh"
     featured: true
-  - text: "CS Club President"
+  - text: "Writing computer programs since 1999"
     icon: "zpxybbhl"
     featured: false
-  - text: "Undergraduate Research Assistant"
+  - text: "Good Grades and scholarships"
     icon: "qhgmphtg"
     featured: false
-  - text: "TA: Intro to Algorithms"
+  - text: "English, Hebrew & Spanish"
     icon: "rrbmabsx"
     featured: false
+
